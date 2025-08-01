@@ -1,0 +1,2 @@
+# trudgen
+algorithmic perpetual futures 
