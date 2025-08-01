@@ -1,2 +1,2 @@
 # trudgen
-algorithmic perpetual futures 
+Algorithmic perpetual futures. Pre-specified non-linear contracts for difference. 
