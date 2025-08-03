@@ -23,3 +23,8 @@ Overview of Trudgen use case.
 
 
 #### 📋 Required Components
+
+
+#### 📋 References
+
+Shiller, Robert J, 1993. "Measuring Asset Values for Cash Settlement in Derivative Markets: Hedonic Repeated Measures Indices and Perpetual Futures," Journal of Finance, American Finance Association, vol. 48(3), pages 911-931, July.
