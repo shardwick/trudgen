@@ -3,7 +3,7 @@ Algorithmic perpetual futures. Pre-specified non-linear contracts for difference
 
 ## Introduction 
 
-Beckground of wallets in Defi 
+Background of wallets in Defi 
 
 
 
@@ -25,6 +25,6 @@ Overview of Trudgen use case.
 #### 📋 Required Components
 
 
-#### 📋 References
+#### References
 
-Shiller, Robert J, 1993. "Measuring Asset Values for Cash Settlement in Derivative Markets: Hedonic Repeated Measures Indices and Perpetual Futures," Journal of Finance, American Finance Association, vol. 48(3), pages 911-931, July.
+1. Shiller, Robert J, 1993. "Measuring Asset Values for Cash Settlement in Derivative Markets: Hedonic Repeated Measures Indices and Perpetual Futures," Journal of Finance, American Finance Association, vol. 48(3), pages 911-931, July.
