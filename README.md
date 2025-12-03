@@ -3,9 +3,7 @@ Algorithmic perpetual futures. Pre-specified non-linear contracts for difference
 
 ## Introduction 
 
-Background of wallets in Defi 
-
-
+Wallets intergration. 
 
 ## Overview 
 
@@ -15,6 +13,10 @@ Overview of Trudgen use case.
 ## 📥 Installation
 1. **Download this repository:**
 
+Install the package locally using pip:
+
+```bash
+pip install trudgen  
 ## 🚀 Quick Start
 
 ### Example Usage
