@@ -10,21 +10,21 @@ Wallets intergration.
 Overview of Trudgen use case.  
 
 
-## 📥 Installation
+## Installation
 1. **Download this repository:**
 
 Install the package locally using pip:
 
 ```bash
 pip install trudgen  
-## 🚀 Quick Start
+## Quick Start
 
 ### Example Usage
 
-## 💡 Best Practices
+## Best Practices
 
 
-#### 📋 Required Components
+#### Required Components
 
 
 #### References
